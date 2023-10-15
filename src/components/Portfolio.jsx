@@ -17,24 +17,24 @@ const Portfolio = () => {
       demo : "https://vishalmegamart.netlify.app/",
       source : "https://github.com/vsbadona/Vishalmegamart"
     },
-    {
-      id: 2,
-      src: SnapAI,
-      demo : "https://snapai.netlify.app/",
-      source : "https://github.com/vsbadona/SnapAI"
-    },
+    // {
+    //   id: 2,
+    //   src: SnapAI,
+    //   demo : "https://snapai.netlify.app/",
+    //   source : "https://github.com/vsbadona/SnapAI"
+    // },
     {
       id: 3,
       src: ShopEase,
       demo : "https://shopeasee.netlify.app/",
       source : "https://github.com/vsbadona/ShopEase"
     },
-    {
-      id: 4,
-      src: Chatbotify,
-      demo : "https://chatbotify.netlify.app/",
-      source : "https://github.com/vsbadona/Chatbotify"
-    },
+    // {
+    //   id: 4,
+    //   src: Chatbotify,
+    //   demo : "https://chatbotify.netlify.app/",
+    //   source : "https://github.com/vsbadona/Chatbotify"
+    // },
      {
       id: 5,
       src: Spiceisland,

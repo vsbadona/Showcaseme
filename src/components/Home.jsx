@@ -2,14 +2,11 @@ import React from "react";
 import HeroImage from "../assets/heroImage.png";
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 import { Link } from "react-scroll";
-import { useState } from "react";
-import axios from "axios";
+
+
 
 const Home = () => {
-  const [home,setHome]=useState(null)
-  const getDetail = async() =>{
-    const response = await axios.get('http://localhost:5000')
-  }
+
   return (
     <div
       name="home"
