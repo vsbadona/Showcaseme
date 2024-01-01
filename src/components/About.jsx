@@ -14,7 +14,7 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-        Hey, I am Vishal and I am a full stack intermediate developer. I created lot of MERN projects . I have an experience of more than 3 years in web development. I started my jorney in this field with HTML and Css . At that time I created many projects. After that I tried Tailwind Css library. Which make designing more easier and consumes less time as compare to CSS.        </p>
+        Hey, I am Vishal and I am a full stack intermediate developer. I created lot of MERN projects . I am fresher in web development. I started my jorney in this field with HTML and Css . At that time I created many projects. After that I tried Tailwind Css library. Which make designing more easier and consumes less time as compare to CSS.        </p>
 
         <br />
 
