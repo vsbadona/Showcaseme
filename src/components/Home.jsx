@@ -18,7 +18,7 @@ const Home = () => {
             I'm a Full Stack Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            I am fresher in MERN Stack Development.
+            I am fresher in MERN Stack Development.<br/>
             To Know more about my projects ans skills go below and check all the stuff.
           </p>
 
